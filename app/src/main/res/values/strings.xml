@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Higher or Lower</string>
+    <string name="infoText">I have chosen a random number between 10 and 20</string>
+    <string name="guessText">Can you guess it ?</string>
+    <string name="button">Guess</string>
+    <string name="Image">Guess Image</string>
+</resources>
